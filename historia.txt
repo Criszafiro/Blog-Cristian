@@ -3,4 +3,6 @@ Esta es la historia de Cristian Aguilar
 Cristian Aguilar tiene 28 años y nacio en Colombia,
  vive en Villavicencio
 
-Hoy hablaremos de su vida. 
+Hoy hablaremos de su vida 
+
+Aprendis del complejo mundo de la programación.
